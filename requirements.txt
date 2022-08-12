@@ -4,4 +4,4 @@ numpy
 requests
 pickle4
 gunicorn
-skikit-learn
+scikit-learn
